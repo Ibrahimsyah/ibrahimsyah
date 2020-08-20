@@ -1,4 +1,5 @@
 ### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=ibrahimsyah&show_icons=true)
 
 <!--
 **Ibrahimsyah/ibrahimsyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
