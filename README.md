@@ -2,7 +2,7 @@
 I love to develop both backend and frontend apps. Currently using NodeJS for backend, javascript (React and React native) and Kotlin for frontend. High interest on learning new things and adapting to changes. 
 
 
-### Technology
+### Technology and Stats
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)
@@ -13,6 +13,9 @@ I love to develop both backend and frontend apps. Currently using NodeJS for bac
   <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsyah&hide=php,css,html, jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
   </a>
+  
+  <br/>
+  <br/>
   <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimsyah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="ibrahimsyah's GitHub Values" />
   </a>
