@@ -11,10 +11,10 @@ I love to develop both backend and frontend apps. Currently using NodeJS for bac
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
   <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsyah&hide=php,css,html&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsyah&hide=php,css,html, jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
   </a>
   <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimsyah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aldiwildan's GitHub Values" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimsyah&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="ibrahimsyah's GitHub Values" />
   </a>
 
 <!--
