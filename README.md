@@ -1,5 +1,5 @@
 ### Hi there, I'm Ibrahim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I love to develop both backend and frontend apps. Currently using NodeJS for backend, javascript and typescript (React and React native) and Kotlin for frontend. High interest on learning new things and adapting to changes. 
+I love to develop both backend and frontend apps. Currently using Golang for backend, javascript and typescript (React and React native) and Kotlin for frontend. High interest on learning new things and adapting to changes. 
 
 
 ### Technology and Stats
