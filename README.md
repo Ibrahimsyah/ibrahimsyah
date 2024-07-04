@@ -13,7 +13,7 @@ I love to develop both backend and frontend apps. Currently using Golang for bac
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsyah&hide=php,css,html, jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsyah&hide=php,css,html,jupyter%20notebook&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
   </a>
 
   <a href="https://github.com/Ibrahimsyah/ibrahimsyah">
